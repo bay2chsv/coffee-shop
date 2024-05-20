@@ -1,4 +1,6 @@
-# coffee-shop
+# coffee-shop RestFul API , Auth 
 Backend nest js(typescript) with typeOrm (src on master branch
 )
-RestFul API ,Auth ,firebase storage(image storage)
+
+addition:
+firebase storage (store image file type png , jpeg )
